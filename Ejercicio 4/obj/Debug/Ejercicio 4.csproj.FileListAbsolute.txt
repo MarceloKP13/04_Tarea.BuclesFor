@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\user\source\repos\04_Tarea-BuclesFor\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
